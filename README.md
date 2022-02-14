@@ -1,6 +1,5 @@
-<h2> Hi, I'm Nihar!! <img src="http://giphy.com/embed/26Fxy3Iz1ari8oytO" width="50" height="405" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/oliviahuynhkeys-26Fxy3Iz1ari8oytO"></h2>
+<h2> Hi, I'm Nihar!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"></h2>
 
-<iframe src="https://giphy.com/embed/26Fxy3Iz1ari8oytO" width="480" height="405" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/oliviahuynhkeys-26Fxy3Iz1ari8oytO">via GIPHY</a></p>
 
 Here are some ideas to get you started:
 
