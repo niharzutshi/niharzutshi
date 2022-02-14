@@ -1,5 +1,4 @@
-
-<<iframe src="https://giphy.com/embed/26Fxy3Iz1ari8oytO" width="480" height="405" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/oliviahuynhkeys-26Fxy3Iz1ari8oytO">via GIPHY</a></p>
+<h2> Hi, I'm Nihar!! <img src="https://giphy.com/embed/26Fxy3Iz1ari8oytO" width="50"></h2>
 
 Here are some ideas to get you started:
 
