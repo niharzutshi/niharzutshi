@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="mailto:niharzutshi12@yahoo.com">
-  <img align="left" alt="Nihar's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
+  <img align="left" alt="Nihar's Email" src="<https://img.icons8.com/clouds/50/000000/yahoo.png"/>
 </a>
 
 <a href="">
