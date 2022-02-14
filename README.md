@@ -1,4 +1,6 @@
-<h2> Hi, I'm Nihar!! <img src="http://giphy.com/embed/26Fxy3Iz1ari8oytO" width="50"></h2>
+<h2> Hi, I'm Nihar!! <img src="http://giphy.com/embed/26Fxy3Iz1ari8oytO" width="50" height="405" frameBorder="0" class="giphy-embed"></h2>
+
+
 
 Here are some ideas to get you started:
 
