@@ -1,5 +1,7 @@
 <h2> Hi, I'm Nihar!! <img src="https://giphy.com/gifs/GitHub-ok-thumbs-up-thumb-NytMLKyiaIh6VH9SPm" width="60"></h2>
 
+<iframe src="https://giphy.com/embed/NytMLKyiaIh6VH9SPm" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GitHub-ok-thumbs-up-thumb-NytMLKyiaIh6VH9SPm">via GIPHY</a></p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
