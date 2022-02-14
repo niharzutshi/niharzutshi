@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="">
-<img src="https://img.icons8.com/bubbles/100/000000/behance.png"/>
+<img src="https://img.icons8.com/bubbles/50/000000/behance.png"/>
 </a>
