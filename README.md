@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="http://twitter.com/zutshi_nihar">
+<a href="https://www.twitter.com/zutshi_nihar">
   <img align="left" alt="Nihar's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
 </a>
 
