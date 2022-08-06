@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.twitter.com/zutshi_nihar">
-  <img align="left" alt="Nihar's Twitter" src="https://img.icons8.com/plumpy/50/000000/twitter--v2.png"/>
+  <img align="left" alt="Nihar's Twitter" src="https://img.icons8.com/cute-clipart/50/000000/twitter.png"/>
 </a>
 
 <a href="https://www.linkedin.com/inniharzutshi/">
