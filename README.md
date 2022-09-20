@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Nihar's Twitter" src="https://img.icons8.com/cute-clipart/50/000000/twitter.png"/>
 </a>
 
-<a href="https://www.linkedin.com/niharzutshi">
+<a href="https://www.linkedin.com/in/niharzutshi/">
   <img align="left" alt="Nihar's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>
 
