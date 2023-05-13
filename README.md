@@ -4,14 +4,14 @@ I am a 4th year student at MIET, Jammu, pursuing my Bachelors in Computer Scienc
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on . Projects
-- 🌱 I’m currently learning . Data Analytics 
-- 👯 I’m looking to collaborate on ... Web Desiging, Product Development 
+- 🔭 I’m currently working on Mastak Projects
+- 🌱 I’m currently learning Full Stack. 
+- 👯 I’m looking to collaborate on ... Frontend Developer, Product Development 
 - 🤔 I’m looking for help with ... Mentor 
 - 💬 Ask me about ... Technology, Investments, World Affairs
 - 📫 How to reach me: ... iamniharji@pm.me 
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I love Masala Chai while coding!
+- ⚡ Fun fact: ... I love Chai while coding!
 -->
 
 
